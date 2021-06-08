@@ -1,1 +1,1 @@
-A dispatch algorithm using round robin cpu scheduling
+A dispatch algorithm using round robin cpu scheduling via a queue and a linked list api
